@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "name": "Santa Claus",
+      "mobile": "505050",
+      "id": 4
+    },
+    {
+      "name": "Santa Claus d",
+      "mobile": "505050",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
